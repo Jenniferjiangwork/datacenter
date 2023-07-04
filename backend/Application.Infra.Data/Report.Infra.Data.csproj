@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="BCrypt.Net-Next" Version="4.0.2" />
+		<PackageReference Include="Dapper" Version="2.0.123" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.11" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.11" />
+		<PackageReference Include="MySql.Data" Version="8.0.27" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.14.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Application.Domain\Report.Domain.csproj" />
+	</ItemGroup>
+
+</Project>

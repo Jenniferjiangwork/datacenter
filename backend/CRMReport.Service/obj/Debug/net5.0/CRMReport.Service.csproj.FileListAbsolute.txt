@@ -1,0 +1,17 @@
+E:\GitHub\DataCenter\backend\CRMReport.Service\bin\Debug\net5.0\CRMReport.Service.deps.json
+E:\GitHub\DataCenter\backend\CRMReport.Service\bin\Debug\net5.0\CRMReport.Service.dll
+E:\GitHub\DataCenter\backend\CRMReport.Service\bin\Debug\net5.0\ref\CRMReport.Service.dll
+E:\GitHub\DataCenter\backend\CRMReport.Service\bin\Debug\net5.0\CRMReport.Service.pdb
+E:\GitHub\DataCenter\backend\CRMReport.Service\bin\Debug\net5.0\Report.Domain.dll
+E:\GitHub\DataCenter\backend\CRMReport.Service\bin\Debug\net5.0\Report.Infra.Data.dll
+E:\GitHub\DataCenter\backend\CRMReport.Service\bin\Debug\net5.0\Report.Domain.pdb
+E:\GitHub\DataCenter\backend\CRMReport.Service\bin\Debug\net5.0\Report.Infra.Data.pdb
+E:\GitHub\DataCenter\backend\CRMReport.Service\obj\Debug\net5.0\CRMReport.Service.csproj.AssemblyReference.cache
+E:\GitHub\DataCenter\backend\CRMReport.Service\obj\Debug\net5.0\CRMReport.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DataCenter\backend\CRMReport.Service\obj\Debug\net5.0\CRMReport.Service.AssemblyInfoInputs.cache
+E:\GitHub\DataCenter\backend\CRMReport.Service\obj\Debug\net5.0\CRMReport.Service.AssemblyInfo.cs
+E:\GitHub\DataCenter\backend\CRMReport.Service\obj\Debug\net5.0\CRMReport.Service.csproj.CoreCompileInputs.cache
+E:\GitHub\DataCenter\backend\CRMReport.Service\obj\Debug\net5.0\CRMReport.Service.csproj.CopyComplete
+E:\GitHub\DataCenter\backend\CRMReport.Service\obj\Debug\net5.0\CRMReport.Service.dll
+E:\GitHub\DataCenter\backend\CRMReport.Service\obj\Debug\net5.0\ref\CRMReport.Service.dll
+E:\GitHub\DataCenter\backend\CRMReport.Service\obj\Debug\net5.0\CRMReport.Service.pdb

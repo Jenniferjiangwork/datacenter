@@ -1,0 +1,17 @@
+E:\GitHub\DataCenter\backend\OutreachReport.Service\bin\Debug\net5.0\OutreachReport.Service.deps.json
+E:\GitHub\DataCenter\backend\OutreachReport.Service\bin\Debug\net5.0\OutreachReport.Service.dll
+E:\GitHub\DataCenter\backend\OutreachReport.Service\bin\Debug\net5.0\ref\OutreachReport.Service.dll
+E:\GitHub\DataCenter\backend\OutreachReport.Service\bin\Debug\net5.0\OutreachReport.Service.pdb
+E:\GitHub\DataCenter\backend\OutreachReport.Service\bin\Debug\net5.0\Report.Domain.dll
+E:\GitHub\DataCenter\backend\OutreachReport.Service\bin\Debug\net5.0\Report.Infra.Data.dll
+E:\GitHub\DataCenter\backend\OutreachReport.Service\bin\Debug\net5.0\Report.Domain.pdb
+E:\GitHub\DataCenter\backend\OutreachReport.Service\bin\Debug\net5.0\Report.Infra.Data.pdb
+E:\GitHub\DataCenter\backend\OutreachReport.Service\obj\Debug\net5.0\OutreachReport.Service.csproj.AssemblyReference.cache
+E:\GitHub\DataCenter\backend\OutreachReport.Service\obj\Debug\net5.0\OutreachReport.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DataCenter\backend\OutreachReport.Service\obj\Debug\net5.0\OutreachReport.Service.AssemblyInfoInputs.cache
+E:\GitHub\DataCenter\backend\OutreachReport.Service\obj\Debug\net5.0\OutreachReport.Service.AssemblyInfo.cs
+E:\GitHub\DataCenter\backend\OutreachReport.Service\obj\Debug\net5.0\OutreachReport.Service.csproj.CoreCompileInputs.cache
+E:\GitHub\DataCenter\backend\OutreachReport.Service\obj\Debug\net5.0\OutreachReport.Service.csproj.CopyComplete
+E:\GitHub\DataCenter\backend\OutreachReport.Service\obj\Debug\net5.0\OutreachReport.Service.dll
+E:\GitHub\DataCenter\backend\OutreachReport.Service\obj\Debug\net5.0\ref\OutreachReport.Service.dll
+E:\GitHub\DataCenter\backend\OutreachReport.Service\obj\Debug\net5.0\OutreachReport.Service.pdb

@@ -1,0 +1,15 @@
+E:\GitHub\DataCenter\backend\Application.Infra.Data\bin\Debug\net5.0\Report.Infra.Data.deps.json
+E:\GitHub\DataCenter\backend\Application.Infra.Data\bin\Debug\net5.0\Report.Infra.Data.dll
+E:\GitHub\DataCenter\backend\Application.Infra.Data\bin\Debug\net5.0\ref\Report.Infra.Data.dll
+E:\GitHub\DataCenter\backend\Application.Infra.Data\bin\Debug\net5.0\Report.Infra.Data.pdb
+E:\GitHub\DataCenter\backend\Application.Infra.Data\bin\Debug\net5.0\Report.Domain.dll
+E:\GitHub\DataCenter\backend\Application.Infra.Data\bin\Debug\net5.0\Report.Domain.pdb
+E:\GitHub\DataCenter\backend\Application.Infra.Data\obj\Debug\net5.0\Report.Infra.Data.csproj.AssemblyReference.cache
+E:\GitHub\DataCenter\backend\Application.Infra.Data\obj\Debug\net5.0\Report.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DataCenter\backend\Application.Infra.Data\obj\Debug\net5.0\Report.Infra.Data.AssemblyInfoInputs.cache
+E:\GitHub\DataCenter\backend\Application.Infra.Data\obj\Debug\net5.0\Report.Infra.Data.AssemblyInfo.cs
+E:\GitHub\DataCenter\backend\Application.Infra.Data\obj\Debug\net5.0\Report.Infra.Data.csproj.CoreCompileInputs.cache
+E:\GitHub\DataCenter\backend\Application.Infra.Data\obj\Debug\net5.0\Report.Infra.Data.csproj.CopyComplete
+E:\GitHub\DataCenter\backend\Application.Infra.Data\obj\Debug\net5.0\Report.Infra.Data.dll
+E:\GitHub\DataCenter\backend\Application.Infra.Data\obj\Debug\net5.0\ref\Report.Infra.Data.dll
+E:\GitHub\DataCenter\backend\Application.Infra.Data\obj\Debug\net5.0\Report.Infra.Data.pdb

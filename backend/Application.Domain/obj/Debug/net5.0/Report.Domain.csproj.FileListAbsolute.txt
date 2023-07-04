@@ -1,0 +1,12 @@
+E:\GitHub\DataCenter\backend\Application.Domain\bin\Debug\net5.0\Report.Domain.deps.json
+E:\GitHub\DataCenter\backend\Application.Domain\bin\Debug\net5.0\Report.Domain.dll
+E:\GitHub\DataCenter\backend\Application.Domain\bin\Debug\net5.0\ref\Report.Domain.dll
+E:\GitHub\DataCenter\backend\Application.Domain\bin\Debug\net5.0\Report.Domain.pdb
+E:\GitHub\DataCenter\backend\Application.Domain\obj\Debug\net5.0\Report.Domain.csproj.AssemblyReference.cache
+E:\GitHub\DataCenter\backend\Application.Domain\obj\Debug\net5.0\Report.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DataCenter\backend\Application.Domain\obj\Debug\net5.0\Report.Domain.AssemblyInfoInputs.cache
+E:\GitHub\DataCenter\backend\Application.Domain\obj\Debug\net5.0\Report.Domain.AssemblyInfo.cs
+E:\GitHub\DataCenter\backend\Application.Domain\obj\Debug\net5.0\Report.Domain.csproj.CoreCompileInputs.cache
+E:\GitHub\DataCenter\backend\Application.Domain\obj\Debug\net5.0\Report.Domain.dll
+E:\GitHub\DataCenter\backend\Application.Domain\obj\Debug\net5.0\ref\Report.Domain.dll
+E:\GitHub\DataCenter\backend\Application.Domain\obj\Debug\net5.0\Report.Domain.pdb

@@ -1,0 +1,17 @@
+E:\GitHub\DataCenter\backend\AMReport.Service\bin\Debug\net5.0\AMReport.Service.deps.json
+E:\GitHub\DataCenter\backend\AMReport.Service\bin\Debug\net5.0\AMReport.Service.dll
+E:\GitHub\DataCenter\backend\AMReport.Service\bin\Debug\net5.0\ref\AMReport.Service.dll
+E:\GitHub\DataCenter\backend\AMReport.Service\bin\Debug\net5.0\AMReport.Service.pdb
+E:\GitHub\DataCenter\backend\AMReport.Service\bin\Debug\net5.0\Report.Domain.dll
+E:\GitHub\DataCenter\backend\AMReport.Service\bin\Debug\net5.0\Report.Infra.Data.dll
+E:\GitHub\DataCenter\backend\AMReport.Service\bin\Debug\net5.0\Report.Domain.pdb
+E:\GitHub\DataCenter\backend\AMReport.Service\bin\Debug\net5.0\Report.Infra.Data.pdb
+E:\GitHub\DataCenter\backend\AMReport.Service\obj\Debug\net5.0\AMReport.Service.csproj.AssemblyReference.cache
+E:\GitHub\DataCenter\backend\AMReport.Service\obj\Debug\net5.0\AMReport.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DataCenter\backend\AMReport.Service\obj\Debug\net5.0\AMReport.Service.AssemblyInfoInputs.cache
+E:\GitHub\DataCenter\backend\AMReport.Service\obj\Debug\net5.0\AMReport.Service.AssemblyInfo.cs
+E:\GitHub\DataCenter\backend\AMReport.Service\obj\Debug\net5.0\AMReport.Service.csproj.CoreCompileInputs.cache
+E:\GitHub\DataCenter\backend\AMReport.Service\obj\Debug\net5.0\AMReport.Service.csproj.CopyComplete
+E:\GitHub\DataCenter\backend\AMReport.Service\obj\Debug\net5.0\AMReport.Service.dll
+E:\GitHub\DataCenter\backend\AMReport.Service\obj\Debug\net5.0\ref\AMReport.Service.dll
+E:\GitHub\DataCenter\backend\AMReport.Service\obj\Debug\net5.0\AMReport.Service.pdb

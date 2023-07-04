@@ -1,0 +1,17 @@
+E:\GitHub\DataCenter\backend\Auth.Service\bin\Debug\net5.0\Auth.Service.deps.json
+E:\GitHub\DataCenter\backend\Auth.Service\bin\Debug\net5.0\Auth.Service.dll
+E:\GitHub\DataCenter\backend\Auth.Service\bin\Debug\net5.0\ref\Auth.Service.dll
+E:\GitHub\DataCenter\backend\Auth.Service\bin\Debug\net5.0\Auth.Service.pdb
+E:\GitHub\DataCenter\backend\Auth.Service\bin\Debug\net5.0\Report.Domain.dll
+E:\GitHub\DataCenter\backend\Auth.Service\bin\Debug\net5.0\Report.Infra.Data.dll
+E:\GitHub\DataCenter\backend\Auth.Service\bin\Debug\net5.0\Report.Domain.pdb
+E:\GitHub\DataCenter\backend\Auth.Service\bin\Debug\net5.0\Report.Infra.Data.pdb
+E:\GitHub\DataCenter\backend\Auth.Service\obj\Debug\net5.0\Auth.Service.csproj.AssemblyReference.cache
+E:\GitHub\DataCenter\backend\Auth.Service\obj\Debug\net5.0\Auth.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DataCenter\backend\Auth.Service\obj\Debug\net5.0\Auth.Service.AssemblyInfoInputs.cache
+E:\GitHub\DataCenter\backend\Auth.Service\obj\Debug\net5.0\Auth.Service.AssemblyInfo.cs
+E:\GitHub\DataCenter\backend\Auth.Service\obj\Debug\net5.0\Auth.Service.csproj.CoreCompileInputs.cache
+E:\GitHub\DataCenter\backend\Auth.Service\obj\Debug\net5.0\Auth.Service.csproj.CopyComplete
+E:\GitHub\DataCenter\backend\Auth.Service\obj\Debug\net5.0\Auth.Service.dll
+E:\GitHub\DataCenter\backend\Auth.Service\obj\Debug\net5.0\ref\Auth.Service.dll
+E:\GitHub\DataCenter\backend\Auth.Service\obj\Debug\net5.0\Auth.Service.pdb

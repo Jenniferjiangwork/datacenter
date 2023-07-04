@@ -1,0 +1,17 @@
+E:\GitHub\DataCenter\backend\Common.Service\bin\Debug\net5.0\Common.Service.deps.json
+E:\GitHub\DataCenter\backend\Common.Service\bin\Debug\net5.0\Common.Service.dll
+E:\GitHub\DataCenter\backend\Common.Service\bin\Debug\net5.0\ref\Common.Service.dll
+E:\GitHub\DataCenter\backend\Common.Service\bin\Debug\net5.0\Common.Service.pdb
+E:\GitHub\DataCenter\backend\Common.Service\bin\Debug\net5.0\Report.Domain.dll
+E:\GitHub\DataCenter\backend\Common.Service\bin\Debug\net5.0\Report.Infra.Data.dll
+E:\GitHub\DataCenter\backend\Common.Service\bin\Debug\net5.0\Report.Domain.pdb
+E:\GitHub\DataCenter\backend\Common.Service\bin\Debug\net5.0\Report.Infra.Data.pdb
+E:\GitHub\DataCenter\backend\Common.Service\obj\Debug\net5.0\Common.Service.csproj.AssemblyReference.cache
+E:\GitHub\DataCenter\backend\Common.Service\obj\Debug\net5.0\Common.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\DataCenter\backend\Common.Service\obj\Debug\net5.0\Common.Service.AssemblyInfoInputs.cache
+E:\GitHub\DataCenter\backend\Common.Service\obj\Debug\net5.0\Common.Service.AssemblyInfo.cs
+E:\GitHub\DataCenter\backend\Common.Service\obj\Debug\net5.0\Common.Service.csproj.CoreCompileInputs.cache
+E:\GitHub\DataCenter\backend\Common.Service\obj\Debug\net5.0\Common.Service.csproj.CopyComplete
+E:\GitHub\DataCenter\backend\Common.Service\obj\Debug\net5.0\Common.Service.dll
+E:\GitHub\DataCenter\backend\Common.Service\obj\Debug\net5.0\ref\Common.Service.dll
+E:\GitHub\DataCenter\backend\Common.Service\obj\Debug\net5.0\Common.Service.pdb
